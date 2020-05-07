@@ -1,0 +1,24 @@
+<resources>
+    <string name="DayOfWeekkk">День недели:</string>
+    <string name="app_name">Notes</string>
+    <string name="textview">м</string>
+    <string name="hightPriorety">Высокий приоритет</string>
+    <string name="MiddlePriority">Средний приоритет</string>
+    <string name="LowPriority">Низкий приоритет</string>
+    <string name="SaveNote">Добавить заметку</string>
+    <string name="NameOfNote">Заголовок заметки</string>
+    <string name="hint_description">писание заметки</string>
+    <string name="priority3">3</string>
+    <string name="priority2">2</string>
+    <string name="hight1">1</string>
+
+    <string-array name="DaysOfWeek">
+        <item>Понедельник</item>
+        <item>Вторник</item>
+        <item>Среда</item>
+        <item>Четверг</item>
+        <item>Пятница</item>
+        <item>Суббота</item>
+        <item>Воскресенье</item>
+    </string-array>
+</resources>
